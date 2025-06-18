@@ -1,0 +1,27 @@
+{
+  "name": "week12finalunit",
+  "version": "1.0.0",
+  "description": "\"# Week12UnitFinal\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cochav4884/Week12UnitFinal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cochav4884/Week12UnitFinal/issues"
+  },
+  "homepage": "https://github.com/cochav4884/Week12UnitFinal#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}

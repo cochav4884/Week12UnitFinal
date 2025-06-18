@@ -1,0 +1,662 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "year": 2010,
+      "genre": "Sci-Fi"
+    },
+    {
+      "id": "2",
+      "title": "The Dark Knight",
+      "director": "Christopher Nolan",
+      "year": 2008,
+      "genre": "Action"
+    },
+    {
+      "id": "3",
+      "title": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "year": 1994,
+      "genre": "Drama"
+    },
+    {
+      "id": "09a5",
+      "title": "Nightbitch",
+      "director": "Marielle Heller",
+      "year": "2024",
+      "genre": "Horror"
+    },
+    {
+      "id": "2b3d",
+      "title": "Heretic",
+      "director": "Scott Beck and Bryan Woods",
+      "year": "2024",
+      "genre": "Horror"
+    },
+    {
+      "id": "e4fd",
+      "title": "Nosferatu",
+      "director": "Robert Eggers",
+      "year": "2024",
+      "genre": "Fantasy"
+    },
+    {
+      "id": "071f",
+      "title": "Beetlejuice Beetlejuice",
+      "director": "Tim Burton",
+      "year": "2024",
+      "genre": "Comedy"
+    },
+    {
+      "id": "dba1",
+      "title": "A Minecraft Movie",
+      "director": "Jared Hess",
+      "year": "2024",
+      "genre": "Comedy"
+    },
+    {
+      "id": "f1bf",
+      "title": "A Goofy Movie",
+      "director": "Kevin Lima",
+      "year": "1995",
+      "genre": "Comedy"
+    },
+    {
+      "id": "6edc",
+      "title": "The Little Rascals",
+      "director": "Penelope Spheeris",
+      "year": "1994",
+      "genre": "Comedy"
+    },
+    {
+      "id": "1b96",
+      "title": "The Wild Robot",
+      "director": "Chris Sanders",
+      "year": "2024",
+      "genre": "Sci-Fi"
+    },
+    {
+      "id": "8194",
+      "title": "Snow White",
+      "director": "Marc Webb",
+      "year": "2025",
+      "genre": "Fantasy"
+    },
+    {
+      "id": "ba39",
+      "title": "One Battle After Another",
+      "director": "Paul Thomas Anderson",
+      "year": "2025",
+      "genre": "Thriller"
+    },
+    {
+      "id": "e83b",
+      "title": "The Lord of the Rings: The Return of the King",
+      "director": "Peter Jackson",
+      "year": "2003",
+      "genre": "Fantasy"
+    },
+    {
+      "id": "c4ec",
+      "title": "Schindler's List",
+      "director": "Steven Spielberg",
+      "year": "1993",
+      "genre": "Drama"
+    },
+    {
+      "id": "3bcd",
+      "title": "The Good, the Bad and the Ugly",
+      "director": "Sergio Leone",
+      "year": "1966",
+      "genre": "Adventure"
+    },
+    {
+      "id": "61a6",
+      "title": "Fight Club",
+      "director": "David Fincher",
+      "year": "1999",
+      "genre": "Drama"
+    },
+    {
+      "id": "b8d2",
+      "title": "The Matrix",
+      "director": "Lana Wachowski & Lilly Wachowski",
+      "year": "1999",
+      "genre": "Action"
+    },
+    {
+      "id": "1f0f",
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "director": "Irvin Kershner",
+      "year": "1980",
+      "genre": "Action"
+    },
+    {
+      "id": "a262",
+      "title": "It's a Wonderful Life",
+      "director": "Frank Capra",
+      "year": "1946",
+      "genre": "Drama"
+    },
+    {
+      "id": "25ba",
+      "title": "Se7en",
+      "director": "David Fincher",
+      "year": "1995",
+      "genre": "Drama"
+    },
+    {
+      "id": "1b12",
+      "title": "Saving Private Ryan",
+      "director": "Steven Spielberg",
+      "year": "1998",
+      "genre": "Drama"
+    },
+    {
+      "id": "c94f",
+      "title": "The Green Mile",
+      "director": "Frank Darabont",
+      "year": "1999",
+      "genre": "Drama"
+    },
+    {
+      "id": "bd70",
+      "title": "Back to the Future",
+      "director": "Robert Zemeckis",
+      "year": "1985",
+      "genre": "Sci-Fi"
+    },
+    {
+      "id": "24bb",
+      "title": "The Lion King",
+      "director": "Roger Allers & Rob Minkoff",
+      "year": "1994",
+      "genre": "Drama"
+    },
+    {
+      "id": "3917",
+      "title": "WALL-E",
+      "director": "Andrew Stanton",
+      "year": "2008",
+      "genre": "Adventure"
+    },
+    {
+      "id": "f28f",
+      "title": "Raiders of the Lost Ark",
+      "director": "Steven Spielburg",
+      "year": "1981",
+      "genre": "Action"
+    },
+    {
+      "id": "6bcc",
+      "title": "Avengers: Infinity War",
+      "director": "Anthony Russo & Joe Russo",
+      "year": "2018",
+      "genre": "Action"
+    },
+    {
+      "id": "b8db",
+      "title": "Coco",
+      "director": "Lee Unkrich & Adrian Molina",
+      "year": "2017",
+      "genre": "Adventure"
+    },
+    {
+      "id": "59d2",
+      "title": "Toy Story",
+      "director": "John Lasseter",
+      "year": "1995",
+      "genre": "Adventure"
+    },
+    {
+      "id": "1625",
+      "title": "Brave Heart",
+      "director": "Mel Gibson",
+      "year": "1995",
+      "genre": "Drama"
+    },
+    {
+      "id": "b20e",
+      "title": "Singin' in the Rain",
+      "director": "Stanley Donen & Gene Kelly",
+      "year": "1952",
+      "genre": "Romance"
+    },
+    {
+      "id": "7a1f",
+      "title": "Up",
+      "director": "Pete Docter & Bob Peterson",
+      "year": "2009",
+      "genre": "Adventure"
+    },
+    {
+      "id": "d43b",
+      "title": "Amelie",
+      "director": "Jean-Pierre Jeunet",
+      "year": "2001",
+      "genre": "Romance"
+    },
+    {
+      "id": "da22",
+      "title": "A Clockwork Orange",
+      "director": "Stanley Kubrick",
+      "year": "1971",
+      "genre": "Sci-Fi"
+    },
+    {
+      "id": "fb15",
+      "title": "Die Hard",
+      "director": "John McTiernan",
+      "year": "1988",
+      "genre": "Thriller"
+    },
+    {
+      "id": "81d1",
+      "title": "Oppenheimer",
+      "director": "Christopher Nolan",
+      "year": "2023",
+      "genre": "Drama"
+    },
+    {
+      "id": "e948",
+      "title": "Snatch",
+      "director": "Guy Ritchie",
+      "year": "2000",
+      "genre": "Comedy"
+    },
+    {
+      "id": "7d02",
+      "title": "The Truman Show",
+      "director": "Peter Weir",
+      "year": "1998",
+      "genre": "Comedy"
+    },
+    {
+      "id": "c644",
+      "title": "Some Like It Hot",
+      "director": "Billy Wilder",
+      "year": "1959",
+      "genre": "Romance"
+    },
+    {
+      "id": "2667",
+      "title": "Shutter Island",
+      "director": "Martin Scorsese",
+      "year": "2010",
+      "genre": "Thriller"
+    },
+    {
+      "id": "fb53",
+      "title": "The Kid",
+      "director": "Charles Chaplin",
+      "year": "1921",
+      "genre": "Comedy"
+    },
+    {
+      "id": "5c99",
+      "title": "Jurassic Park",
+      "director": "Steven Spielberg",
+      "year": "1993",
+      "genre": "Action"
+    },
+    {
+      "id": "66df",
+      "title": "The Sixth Sense",
+      "director": "M. Night Shyamalan",
+      "year": "1999",
+      "genre": "Thriller"
+    },
+    {
+      "id": "c93c",
+      "title": "Top Gun: Maverick",
+      "director": "Joseph Kosinski",
+      "year": "2022",
+      "genre": "Action"
+    },
+    {
+      "id": "a9e6",
+      "title": "No Country for Old Men",
+      "director": "Ethan Coen & Joel Coen",
+      "year": "2007",
+      "genre": "Thriller"
+    },
+    {
+      "id": "c2b8",
+      "title": "The Thing",
+      "director": "John Carpenter",
+      "year": "1982",
+      "genre": "Horror"
+    },
+    {
+      "id": "7812",
+      "title": "Pan's Labyrinth",
+      "director": "Guillermo del Toro",
+      "year": "2006",
+      "genre": "Fantasy"
+    },
+    {
+      "id": "4a79",
+      "title": "Prisoners",
+      "director": "Denis Villeneuve",
+      "year": "2013",
+      "genre": "Drama"
+    },
+    {
+      "id": "a0bc",
+      "title": "A Beautiful Mind",
+      "director": "Ron Howard",
+      "year": "2001",
+      "genre": "Drama"
+    },
+    {
+      "id": "b1cf",
+      "title": "Finding Nemo",
+      "director": "Andrew Stanton & Lee Unkrich",
+      "year": "2003",
+      "genre": "Adventure"
+    },
+    {
+      "id": "6f26",
+      "title": "Monty Python and the Holy Grail",
+      "director": "Terry Gilliam & Terry Jones",
+      "year": "1975",
+      "genre": "Fantasy"
+    },
+    {
+      "id": "f770",
+      "title": "Gone with the Wind",
+      "director": "Victor Fleming",
+      "year": "1939",
+      "genre": "Romance"
+    },
+    {
+      "id": "557c",
+      "title": "Chinatown",
+      "director": "Roman Polanski",
+      "year": "1974",
+      "genre": "Thriller"
+    },
+    {
+      "id": "b5ca",
+      "title": "V for Vendetta",
+      "director": "James McTeigue",
+      "year": "2005",
+      "genre": "Sci-Fi"
+    },
+    {
+      "id": "b9e6",
+      "title": "Inside Out",
+      "director": "Pete Docter & Ronnie Del Carmen",
+      "year": "2015",
+      "genre": "Adventure"
+    },
+    {
+      "id": "54e0",
+      "title": "Fargo",
+      "director": "Joel Coen & Ethan Coen",
+      "year": "1996",
+      "genre": "Thriller"
+    },
+    {
+      "id": "8b6c",
+      "title": "Warrior",
+      "director": "Gavin O'Connor",
+      "year": "2011",
+      "genre": "Action"
+    },
+    {
+      "id": "72b8",
+      "title": "Harry Potter and the Deathly Hallows: Part 2",
+      "director": "David Yates",
+      "year": "2011",
+      "genre": "Fantasy"
+    },
+    {
+      "id": "110d",
+      "title": "Gran Torino",
+      "director": "Clint Eastwood",
+      "year": "2008",
+      "genre": "Drama"
+    },
+    {
+      "id": "46c8",
+      "title": "Mad Max: Fury Road",
+      "director": "George Miller",
+      "year": "2015",
+      "genre": "Sci-Fi"
+    },
+    {
+      "id": "b40c",
+      "title": "Spider-Man: No Way Home",
+      "director": "Jon Watts",
+      "year": "2021",
+      "genre": "Action"
+    },
+    {
+      "id": "b1c4",
+      "title": "Before Sunrise",
+      "director": "Richard Linklater",
+      "year": "1995",
+      "genre": "Romance"
+    },
+    {
+      "id": "0853",
+      "title": "Dead Poets Society",
+      "director": "Peter Weir",
+      "year": "1989",
+      "genre": "Comedy"
+    },
+    {
+      "id": "6a45",
+      "title": "Hacksaw Ridge",
+      "director": "Mel Gibson",
+      "year": "2016",
+      "genre": "Drama"
+    },
+    {
+      "id": "1677",
+      "title": "Gone Girl",
+      "director": "David Fincher",
+      "year": "2014",
+      "genre": "Thriller"
+    },
+    {
+      "id": "e9eb",
+      "title": "Monsters, Inc.",
+      "director": "Pete Docter, David Silverman & Lee Unkrich",
+      "year": "2001",
+      "genre": "Comedy"
+    },
+    {
+      "id": "b6ab",
+      "title": "Ratatouille",
+      "director": "Brad Bird & Jan Pinkava",
+      "year": "2007",
+      "genre": "Adventure"
+    },
+    {
+      "id": "ca06",
+      "title": "How to Train Your Dragon",
+      "director": "Dean DeBlois & Chris Sanders",
+      "year": "2010",
+      "genre": "Action"
+    },
+    {
+      "id": "9d44",
+      "title": "Sherlock Jr.",
+      "director": "Buster Keaton",
+      "year": "1924",
+      "genre": "Romance"
+    },
+    {
+      "id": "0193",
+      "title": "Jaws",
+      "director": "Steven Spielberg",
+      "year": "1975",
+      "genre": "Horror"
+    },
+    {
+      "id": "7b5b",
+      "title": "The Wages of Fear",
+      "director": "Henri-Georges Clouzot",
+      "year": "1953",
+      "genre": "Thriller"
+    },
+    {
+      "id": "d28f",
+      "title": "On the Waterfront",
+      "director": "Elia Kazan",
+      "year": "1954",
+      "genre": "Thriller"
+    },
+    {
+      "id": "54cb",
+      "title": "Wild Strawberries",
+      "director": "Ingmar Bergman",
+      "year": "1957",
+      "genre": "Romance"
+    },
+    {
+      "id": "385d",
+      "title": "Logan",
+      "director": "James Mangold",
+      "year": "2017",
+      "genre": "Sci-Fi"
+    },
+    {
+      "id": "dfaa",
+      "title": "The Big Lebowski",
+      "director": "Joel Coen & Ethan Coen",
+      "year": "1998",
+      "genre": "Comedy"
+    },
+    {
+      "id": "0e12",
+      "title": "The Terminator",
+      "director": "James Cameron",
+      "year": "1984",
+      "genre": "Sci-Fi"
+    },
+    {
+      "id": "b22c",
+      "title": "Room",
+      "director": "Lenny Abrahamson",
+      "year": "2015",
+      "genre": "Thriller"
+    },
+    {
+      "id": "5b5c",
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "director": "Gore Verbinski",
+      "year": "2003",
+      "genre": "Adventure"
+    },
+    {
+      "id": "589b",
+      "title": "Before Sunset",
+      "director": "Richard Linklater",
+      "year": "2004",
+      "genre": "Romance"
+    },
+    {
+      "id": "2adc",
+      "title": "The Exorcist",
+      "director": "William Friedkin",
+      "year": "1973",
+      "genre": "Horror"
+    },
+    {
+      "id": "722f",
+      "title": "The Wizard of Oz",
+      "director": "Victor Fleming & King Vidor",
+      "year": "1939",
+      "genre": "Fantasy"
+    },
+    {
+      "id": "58e2",
+      "title": "The Incredibles",
+      "director": "Brad Bird",
+      "year": "2004",
+      "genre": "Adventure"
+    },
+    {
+      "id": "f8dc",
+      "title": "Hachi: A Dog's Tale",
+      "director": "Lasse Hallstrom",
+      "year": "2009",
+      "genre": "Drama"
+    },
+    {
+      "id": "3e5d",
+      "title": "Stand by Me",
+      "director": "Rob Reiner",
+      "year": "1986",
+      "genre": "Adventure"
+    },
+    {
+      "id": "39a3",
+      "title": "The Handmaiden",
+      "director": "Park Chan-wook",
+      "year": "2016",
+      "genre": "Romance"
+    },
+    {
+      "id": "f2e0",
+      "title": "Groundhog Day",
+      "director": "Harold Ramis",
+      "year": "1993",
+      "genre": "Fantasy"
+    },
+    {
+      "id": "8d6f",
+      "title": "The Help",
+      "director": "Tate Taylor",
+      "year": "2011",
+      "genre": "Drama"
+    },
+    {
+      "id": "f3a8",
+      "title": "The Silence of the Lambs",
+      "director": "Jonathan Demme",
+      "year": "1991",
+      "genre": "Horror"
+    },
+    {
+      "id": "52f2",
+      "title": "Alien",
+      "director": "Ridley Scott",
+      "year": "1979",
+      "genre": "Horror"
+    },
+    {
+      "id": "83b4",
+      "title": "The Shining",
+      "director": "Stanley Kubrick",
+      "year": "1980",
+      "genre": "Horror"
+    },
+    {
+      "id": "6737",
+      "title": "Aliens",
+      "director": "James Cameron",
+      "year": "1986",
+      "genre": "Horror"
+    },
+    {
+      "id": "9807",
+      "title": "Psycho",
+      "director": "Alfred Hitchcock",
+      "year": "1960",
+      "genre": "Thriller"
+    },
+    {
+      "id": "2338",
+      "title": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "year": "1994",
+      "genre": "Drama"
+    }
+  ]
+}
