@@ -1,0 +1,143 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://images.unsplash.com/photo-1509281373149-e957c6296406?q=808w=145&auto=format&fit=crop&inlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.container {
+    max-width: 1200px;
+    margin-top: 50px;
+}
+
+/* Movie Title and Movie Listing */
+h1 {
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #000000;
+    margin-bottom: 40px;
+}
+
+/* Form Input Elements */
+#movieFormContainer {
+    background-color: rgba(255, 255, 255, 0.75);
+}
+
+.form-label {
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+}
+
+.form-control,
+.form-select {
+    font-size: 1rem;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #ced4da;
+    margin-bottom: 10px;
+}
+
+.form-control:focus,
+.form-select:focus {
+    border-color: #000000;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+#title,
+#director,
+#year,
+#genre {
+    background-color: rgba(128, 85, 40, 0.5);
+}
+
+#movieListContainer {
+    background-color: rgba(255, 255, 255, 0.75);
+}
+
+/* Search Bar */
+#searchInput {
+    max-width: 350px;
+    background-color: rgba(255, 255, 255, 0.75);
+}
+
+input[type='text']:focus {
+    border-color: #000000;
+}
+
+button[type='submit'] {
+    font-size: 1.1rem;
+    background-color: rgba(128, 85, 40);
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button[type='submit']:hover {
+    background-color: rgba(128, 85, 40, 0.5);
+}
+
+/* Movie List */
+#movieList {
+    list-style-type: none;
+    padding: 0;
+}
+
+#movieList li {
+    background-color: rgba(128, 85, 40, 0.5); /* Brown with 75% opacity */
+    border-radius: 6px;
+    margin-bottom: 10px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#movieList li button {
+    font-size: 1.2rem;
+    background-color: rgba(128, 85, 40);
+    border: none;
+    padding: 5px 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#movieList li button:hover {
+    background-color: #72140d;
+}
+
+/* Genre Dropdown */
+#genreSelect {
+    background-color: rgba(255, 255, 255, 0.75); /* White wiht 75% opacity */
+    font-size: 1rem;
+    padding: 10px 40px;
+    border-radius: 6px;
+    border: 1px solid #fff;
+}
+
+#genreSelect:focus {
+    /* border-color: #000000; */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+/* Change the dropdonw list background and text color */
+#genreSelect option {
+    background-color: rgba(128, 85, 40, 0.5);
+    color: #000000;
+}
+
+/* Change the background color when an option is hovered */
+#genreSelect option:hover {
+    background-color: rgba(128, 85, 40);
+}
+
+/* Responsive Layout */
+@media (max-width: 768px) {
+    #seerachInput {
+        max-width: 100%;
+    }   
+}

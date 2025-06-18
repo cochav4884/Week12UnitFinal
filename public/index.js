@@ -1,6 +1,6 @@
 // API URL and Key
-const API_URL = 'http://localhost:5000/movies'; // Local json-server URL, replace with your actual API URL
-const API_KEY = 'HkMwCY58i61SxGSegiorf3ejDRDuM1JeaoUgUQpr'; // Replace with your actual API key
+const API_URL = 'http://localhost:3001/movies'; // Local json-server URL, replace with your actual API URL
+// const API_KEY = 'HkMwCY58i61SxGSegiorf3ejDRDuM1JeaoUgUQpr'; // Replace with your actual API key
 
 // Form elements
 const movieForm = document.getElementById('movieForm');
@@ -22,10 +22,10 @@ async function fetchMovies() {
     try {
         const response = await fetch(API_URL, {
             method: 'GET',
-            headers: {
-                'Content-Type': 'application/json',
-                'x-api-key': API_KEY // Add the API key here
-            }
+            // headers: {
+            //     'Content-Type': 'application/json',
+            //     'x-api-key': API_KEY 
+            // }
         });
 
         if (!response.ok) {
